@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+
+        fetch("http://localhost:3000/events/create", {
+        method: "post",
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+
+            //make sure to serialize your JSON body
+            body: JSON.stringify({
+                calendarId: '4su31qqnqdmg8q08gf9dliiec4@group.calendar.google.com',
+                summary: 'ทดสอบ Calendar ห้องประชุมบริษัท',
+                description: "สรุ 8.00",
+                startDateTime: "2023-11-09 08:00",
+                endDateTime: "2023-11-09 09:00"
+            })
+        })
+        .then( (response) => { 
+            console.log(response);
+        });
+    </script>
+</body>
+</html>

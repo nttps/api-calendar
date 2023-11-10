@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "206513727138",
+  "private_key_id": "4a1d7e8bd52e633f4fc096af38a33f2e58d8eb16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDWkFkbZvr9RwGE\nYd3irhwAPfx3j+NZdZlz5chcJCopIWj7ozGqz3ooWrt573gvlK0a2HOCRJMKVvdx\nZFeAVlMMovu+7cypAU/Oq70KF5/6F4b1QVafZdFKurlQMmiUE/qvmjiOW85cNVgQ\n3QFYQL3W/P+tmsKApv6ULxs3PMgtEqLeWW+CxtDRzmbEBd+At4epQi5M9pnSRjby\nmXY3tUmuIwVb/EQ8lFxhItB+bSypU6GgPHpr75A1s+zamhQ9tXlbPPBOIdcoHo1g\nuvdelasoRNV5EuxYDboZueUmrVHyBH6fTziY91ZbNLvQqkTlESN2jJlDnD0QiZ7F\nnBXQQ3clAgMBAAECggEAJEo40AIsbF8wmf/lg/v3v3C8fUpoZQ6XXDtelnsFaHx+\noaT59w5tdlrWP6rplH6cgqBedQd9KTAJXPPgOtQe6tG8K5BT37fZlDaG3CifxbBq\nApxA9ufFLNMFGdPUzUrNyRqX+zf64KyjDwMaQZ99nFmhMu8se48DGvQWsdKFdt3T\nR3kYeukqiX21FjfAB2Eug0vmyL2q8KamQuT7fVtVxb5leN6RfKG2JfW9+3mxq0vz\nxLJeRAAiaZ2wVBlomNqM7S9rDfsJj0+2ev0JbXFzRvaLYwWuLHQkVGSowVhETIuh\nQ+2swmDKIFapBWltGY9jUG6hMzEd+LSzqqAMKljCUQKBgQDqds2Ymdk0/eNnaHan\n6VCKBl0r7Dtd0l81cQ8n3QJMmM52gBBh0WNVuZ9Npd7N+ZPCkUTetJznM5XFVr+F\nKG+t1xdbOje0aYUQ26E2tamqB7nAEgncPWqzdHk/CGX1OXpZc/lhmQtkDErPcoNB\nMCtzrS9dbX7WBPeRUjQW42NseQKBgQDqRZxOumwgQ6W+kMNlM6AtX/RsbaGYKmg/\n0O+yeeetdd1kjcn+0kLlMmNr6EHCZpegUQ0iS6ekMtus/9Lr377vWsxZGgJ3OBkD\nEY3pktttrVYhKA2M6HR4hxcevritD+8WbuECA3RBRKcflHlKkDjeCgJfrEJCRR66\noo/aAoddDQKBgQC1G6W+LYDBVSgWFXQqSafDphzMM8K7uyd+AWICmc4P2q0Ije2Z\nkYMYkbSC5xBOrG09irbXDE5yrL8Q2uw/cDer4YySFEs5GZUGq5BA0VxIEYWi3owt\nSmekTODnFpajMI3YkSPeBrjsxC35RewrK4k05l7C3TRvHxEYeJXx5B1FiQKBgQDG\nrAXkliAANJ4ov+eUuXVLRaapFUgHHV+PTwcXml4pMl1wWvZEjdeBO3wpFKw/ynUn\n1dSHkxU2IJM/YSxkMDliDuRhY7dXl1FO0uJAhPRlTKxQLgFfz/qGBDpNLny691pQ\n8fMLnBZJC4mXNHiwDSLM2jwtGo6OWMO4jwfjYGWfOQKBgQDoHrcHIePQKwAbZD/M\n7kSzd6raSjlRoCZWdZ+cW1n1tC1v8bUOISGjT/liSPT82GsCcTqTQowCNUiWKvRM\n3QhAoBXT1xZ/yuDsyKODH4aE1Syhk8Fr9O++N/VHEq23ukPbB++54mGPDKUkgqFQ\nv3o0VtLF6qtMtDjkqktb9jXRJg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gisdabooking@gisda-391813.iam.gserviceaccount.com",
+  "client_id": "206513727138-3j33jubpte3b2g2nvqiuf1bd7233mg0i.apps.googleusercontent.com",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gisdabooking%40gisda-391813.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
